@@ -19,4 +19,7 @@ if age > 12:
 name ="Miskyyyy"
 if name is "Miskyyy":
     print("thats meeee")
-elif    
+elif name is "Biolaaa":
+    print ("what's up")
+elif name is "Badmus":
+    print("Hey there!")    
