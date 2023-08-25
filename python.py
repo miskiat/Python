@@ -25,3 +25,6 @@ elif name is "Badmus":
     print("Hey there!")  
 elif name is "Abiolaaaaa":
     print("howdyyy") 
+elif name is "Kiks":
+    print("heyyyyyyyyyyy")
+
