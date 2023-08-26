@@ -14,17 +14,21 @@
 # user = 'Miskiat'
 # print (user[4])
 age  = 18
-if age > 12:
-   print('naso naso')
-name ="Miskyyyy"
-if name is "Miskyyy":
-    print("thats meeee")
-elif name is "Biolaaa":
-    print ("what's up")
-elif name is "Badmus":
-    print("Hey there!")  
-elif name is "Abiolaaaaa":
-    print("howdyyy") 
-elif name is "Kiks":
-    print("heyyyyyyyyyyy")
-
+# if age > 12:
+#    print('naso naso')
+# name ="Miskyyyy"
+# if name is "Miskyyy":
+#     print("thats meeee")
+# elif name is "Biolaaa":
+#     print ("what's up")
+# elif name is "Badmus":
+#     print("Hey there!")  
+# elif name is "Abiolaaaaa":
+#     print("howdyyy") 
+# elif name is "Kiks":
+#     print("heyyyyyyyyyyy")
+food ="Eba"    
+if food is "Amala":
+    print ("eweduuuu")
+elif food is "Eba":
+    print ("Okra")    
